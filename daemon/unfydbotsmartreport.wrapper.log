@@ -1,0 +1,550 @@
+2023-08-17 12:09:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 12:09:47 - Started 348
+2023-08-17 12:14:05 - Stopping unfydbotsmartreport.exe
+2023-08-17 12:14:05 - ProcessKill 348
+2023-08-17 12:14:05 - Found child process: 5312 Name: conhost.exe
+2023-08-17 12:14:05 - Found child process: 2100 Name: node.exe
+2023-08-17 12:14:06 - Stopping process 5312
+2023-08-17 12:14:06 - Send SIGINT 5312
+2023-08-17 12:14:06 - SIGINT to 5312 failed - Killing as fallback
+2023-08-17 12:14:06 - Stopping process 2100
+2023-08-17 12:14:06 - Send SIGINT 2100
+2023-08-17 12:14:06 - SIGINT to 2100 failed - Killing as fallback
+2023-08-17 12:14:06 - Stopping process 348
+2023-08-17 12:14:06 - Send SIGINT 348
+2023-08-17 12:14:06 - SIGINT to 348 failed - Killing as fallback
+2023-08-17 12:14:06 - Finished unfydbotsmartreport.exe
+2023-08-17 12:14:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 12:14:06 - Started 2124
+2023-08-17 12:15:57 - Stopping unfydbotsmartreport.exe
+2023-08-17 12:15:57 - ProcessKill 2124
+2023-08-17 12:15:58 - Found child process: 3828 Name: conhost.exe
+2023-08-17 12:15:58 - Found child process: 2032 Name: node.exe
+2023-08-17 12:15:58 - Stopping process 3828
+2023-08-17 12:15:58 - Send SIGINT 3828
+2023-08-17 12:15:58 - SIGINT to 3828 failed - Killing as fallback
+2023-08-17 12:15:58 - Stopping process 2032
+2023-08-17 12:15:58 - Send SIGINT 2032
+2023-08-17 12:15:58 - SIGINT to 2032 failed - Killing as fallback
+2023-08-17 12:15:58 - Stopping process 2124
+2023-08-17 12:15:58 - Send SIGINT 2124
+2023-08-17 12:15:58 - SIGINT to 2124 failed - Killing as fallback
+2023-08-17 12:15:58 - Finished unfydbotsmartreport.exe
+2023-08-17 12:15:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 12:15:59 - Started 4460
+2023-08-17 18:25:42 - Stopping unfydbotsmartreport.exe
+2023-08-17 18:25:42 - ProcessKill 4460
+2023-08-17 18:25:42 - Found child process: 4172 Name: conhost.exe
+2023-08-17 18:25:42 - Found child process: 6336 Name: node.exe
+2023-08-17 18:25:42 - Stopping process 4172
+2023-08-17 18:25:42 - Send SIGINT 4172
+2023-08-17 18:25:42 - SIGINT to 4172 failed - Killing as fallback
+2023-08-17 18:25:42 - Stopping process 6336
+2023-08-17 18:25:42 - Send SIGINT 6336
+2023-08-17 18:25:42 - SIGINT to 6336 failed - Killing as fallback
+2023-08-17 18:25:42 - Stopping process 4460
+2023-08-17 18:25:42 - Send SIGINT 4460
+2023-08-17 18:25:42 - SIGINT to 4460 failed - Killing as fallback
+2023-08-17 18:25:42 - Finished unfydbotsmartreport.exe
+2023-08-17 18:25:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 18:25:43 - Started 6804
+2023-08-17 18:28:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 18:28:18 - Started 6352
+2023-08-17 18:32:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 18:32:29 - Started 5588
+2023-08-17 18:33:00 - Stopping unfydbotsmartreport.exe
+2023-08-17 18:33:00 - ProcessKill 5588
+2023-08-17 18:33:00 - Found child process: 5076 Name: conhost.exe
+2023-08-17 18:33:00 - Found child process: 2800 Name: node.exe
+2023-08-17 18:33:00 - Stopping process 5076
+2023-08-17 18:33:00 - Send SIGINT 5076
+2023-08-17 18:33:00 - SIGINT to 5076 failed - Killing as fallback
+2023-08-17 18:33:00 - Stopping process 2800
+2023-08-17 18:33:00 - Send SIGINT 2800
+2023-08-17 18:33:00 - SIGINT to 2800 failed - Killing as fallback
+2023-08-17 18:33:00 - Stopping process 5588
+2023-08-17 18:33:00 - Send SIGINT 5588
+2023-08-17 18:33:00 - SIGINT to 5588 failed - Killing as fallback
+2023-08-17 18:33:00 - Finished unfydbotsmartreport.exe
+2023-08-17 18:33:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 18:33:01 - Started 3300
+2023-08-17 18:40:30 - Stopping unfydbotsmartreport.exe
+2023-08-17 18:40:30 - ProcessKill 3300
+2023-08-17 18:40:30 - Found child process: 3004 Name: conhost.exe
+2023-08-17 18:40:30 - Found child process: 6668 Name: node.exe
+2023-08-17 18:40:31 - Stopping process 3004
+2023-08-17 18:40:31 - Send SIGINT 3004
+2023-08-17 18:40:31 - SIGINT to 3004 failed - Killing as fallback
+2023-08-17 18:40:31 - Stopping process 6668
+2023-08-17 18:40:31 - Send SIGINT 6668
+2023-08-17 18:40:31 - SIGINT to 6668 failed - Killing as fallback
+2023-08-17 18:40:31 - Stopping process 3300
+2023-08-17 18:40:31 - Send SIGINT 3300
+2023-08-17 18:40:31 - SIGINT to 3300 failed - Killing as fallback
+2023-08-17 18:40:31 - Finished unfydbotsmartreport.exe
+2023-08-17 18:40:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 18:40:31 - Started 5288
+2023-08-17 18:44:12 - Stopping unfydbotsmartreport.exe
+2023-08-17 18:44:12 - ProcessKill 5288
+2023-08-17 18:44:13 - Found child process: 4176 Name: conhost.exe
+2023-08-17 18:44:13 - Found child process: 5052 Name: node.exe
+2023-08-17 18:44:13 - Stopping process 4176
+2023-08-17 18:44:13 - Send SIGINT 4176
+2023-08-17 18:44:13 - SIGINT to 4176 failed - Killing as fallback
+2023-08-17 18:44:14 - Stopping process 5052
+2023-08-17 18:44:14 - Send SIGINT 5052
+2023-08-17 18:44:14 - SIGINT to 5052 failed - Killing as fallback
+2023-08-17 18:44:14 - Stopping process 5288
+2023-08-17 18:44:14 - Send SIGINT 5288
+2023-08-17 18:44:14 - SIGINT to 5288 failed - Killing as fallback
+2023-08-17 18:44:14 - Finished unfydbotsmartreport.exe
+2023-08-17 18:44:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 18:44:15 - Started 5868
+2023-08-24 11:37:21 - Stopping unfydbotsmartreport.exe
+2023-08-24 11:37:22 - ProcessKill 5868
+2023-08-24 11:37:26 - Found child process: 4672 Name: conhost.exe
+2023-08-24 11:37:26 - Found child process: 4016 Name: node.exe
+2023-08-24 11:37:27 - Stopping process 4672
+2023-08-24 11:37:28 - Send SIGINT 4672
+2023-08-24 11:37:28 - SIGINT to 4672 failed - Killing as fallback
+2023-08-24 11:37:29 - Stopping process 4016
+2023-08-24 11:37:29 - Send SIGINT 4016
+2023-08-24 11:37:29 - SIGINT to 4016 failed - Killing as fallback
+2023-08-24 11:37:29 - Stopping process 5868
+2023-08-24 11:37:29 - Send SIGINT 5868
+2023-08-24 11:37:29 - SIGINT to 5868 failed - Killing as fallback
+2023-08-24 11:37:29 - Finished unfydbotsmartreport.exe
+2023-08-24 11:37:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-24 11:37:32 - Started 5944
+2023-08-24 11:39:02 - Stopping unfydbotsmartreport.exe
+2023-08-24 11:39:02 - ProcessKill 5944
+2023-08-24 11:39:03 - Found child process: 4616 Name: conhost.exe
+2023-08-24 11:39:03 - Found child process: 3004 Name: node.exe
+2023-08-24 11:39:03 - Stopping process 4616
+2023-08-24 11:39:03 - Send SIGINT 4616
+2023-08-24 11:39:03 - SIGINT to 4616 failed - Killing as fallback
+2023-08-24 11:39:03 - Stopping process 3004
+2023-08-24 11:39:03 - Send SIGINT 3004
+2023-08-24 11:39:03 - SIGINT to 3004 failed - Killing as fallback
+2023-08-24 11:39:03 - Stopping process 5944
+2023-08-24 11:39:03 - Send SIGINT 5944
+2023-08-24 11:39:03 - SIGINT to 5944 failed - Killing as fallback
+2023-08-24 11:39:03 - Finished unfydbotsmartreport.exe
+2023-08-24 11:39:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-24 11:39:04 - Started 6228
+2023-08-28 18:26:16 - Stopping unfydbotsmartreport.exe
+2023-08-28 18:26:16 - ProcessKill 6228
+2023-08-28 18:26:17 - Found child process: 6344 Name: conhost.exe
+2023-08-28 18:26:17 - Found child process: 5344 Name: node.exe
+2023-08-28 18:26:17 - Stopping process 6344
+2023-08-28 18:26:18 - Send SIGINT 6344
+2023-08-28 18:26:18 - SIGINT to 6344 failed - Killing as fallback
+2023-08-28 18:26:18 - Stopping process 5344
+2023-08-28 18:26:18 - Send SIGINT 5344
+2023-08-28 18:26:18 - SIGINT to 5344 failed - Killing as fallback
+2023-08-28 18:26:18 - Stopping process 6228
+2023-08-28 18:26:18 - Send SIGINT 6228
+2023-08-28 18:26:18 - SIGINT to 6228 failed - Killing as fallback
+2023-08-28 18:26:18 - Finished unfydbotsmartreport.exe
+2023-08-28 18:26:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 18:26:20 - Started 4488
+2023-08-28 18:27:08 - Stopping unfydbotsmartreport.exe
+2023-08-28 18:27:08 - ProcessKill 4488
+2023-08-28 18:27:09 - Found child process: 7516 Name: conhost.exe
+2023-08-28 18:27:09 - Found child process: 7556 Name: node.exe
+2023-08-28 18:27:09 - Stopping process 7516
+2023-08-28 18:27:09 - Send SIGINT 7516
+2023-08-28 18:27:09 - SIGINT to 7516 failed - Killing as fallback
+2023-08-28 18:27:09 - Stopping process 7556
+2023-08-28 18:27:09 - Send SIGINT 7556
+2023-08-28 18:27:09 - SIGINT to 7556 failed - Killing as fallback
+2023-08-28 18:27:09 - Stopping process 4488
+2023-08-28 18:27:09 - Send SIGINT 4488
+2023-08-28 18:27:09 - SIGINT to 4488 failed - Killing as fallback
+2023-08-28 18:27:09 - Finished unfydbotsmartreport.exe
+2023-08-28 18:27:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 18:27:10 - Started 8004
+2023-08-28 18:28:54 - Stopping unfydbotsmartreport.exe
+2023-08-28 18:28:54 - ProcessKill 8004
+2023-08-28 18:28:54 - Found child process: 3088 Name: conhost.exe
+2023-08-28 18:28:54 - Found child process: 7672 Name: node.exe
+2023-08-28 18:28:54 - Stopping process 3088
+2023-08-28 18:28:54 - Send SIGINT 3088
+2023-08-28 18:28:54 - SIGINT to 3088 failed - Killing as fallback
+2023-08-28 18:28:54 - Stopping process 7672
+2023-08-28 18:28:54 - Send SIGINT 7672
+2023-08-28 18:28:54 - SIGINT to 7672 failed - Killing as fallback
+2023-08-28 18:28:54 - Stopping process 8004
+2023-08-28 18:28:54 - Send SIGINT 8004
+2023-08-28 18:28:54 - SIGINT to 8004 failed - Killing as fallback
+2023-08-28 18:28:54 - Finished unfydbotsmartreport.exe
+2023-08-28 18:28:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 18:28:55 - Started 156
+2023-08-28 18:30:38 - Stopping unfydbotsmartreport.exe
+2023-08-28 18:30:38 - ProcessKill 156
+2023-08-28 18:30:38 - Found child process: 4792 Name: conhost.exe
+2023-08-28 18:30:38 - Found child process: 7664 Name: node.exe
+2023-08-28 18:30:38 - Stopping process 4792
+2023-08-28 18:30:38 - Send SIGINT 4792
+2023-08-28 18:30:38 - SIGINT to 4792 failed - Killing as fallback
+2023-08-28 18:30:38 - Stopping process 7664
+2023-08-28 18:30:38 - Send SIGINT 7664
+2023-08-28 18:30:38 - SIGINT to 7664 failed - Killing as fallback
+2023-08-28 18:30:38 - Stopping process 156
+2023-08-28 18:30:38 - Send SIGINT 156
+2023-08-28 18:30:38 - SIGINT to 156 failed - Killing as fallback
+2023-08-28 18:30:38 - Finished unfydbotsmartreport.exe
+2023-08-28 18:30:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 18:30:40 - Started 4400
+2023-08-28 19:22:26 - Stopping unfydbotsmartreport.exe
+2023-08-28 19:22:26 - ProcessKill 4400
+2023-08-28 19:22:28 - Found child process: 4856 Name: conhost.exe
+2023-08-28 19:22:28 - Found child process: 6160 Name: node.exe
+2023-08-28 19:22:28 - Stopping process 4856
+2023-08-28 19:22:28 - Send SIGINT 4856
+2023-08-28 19:22:28 - SIGINT to 4856 failed - Killing as fallback
+2023-08-28 19:22:28 - Stopping process 6160
+2023-08-28 19:22:28 - Send SIGINT 6160
+2023-08-28 19:22:28 - SIGINT to 6160 failed - Killing as fallback
+2023-08-28 19:22:28 - Stopping process 4400
+2023-08-28 19:22:28 - Send SIGINT 4400
+2023-08-28 19:22:28 - SIGINT to 4400 failed - Killing as fallback
+2023-08-28 19:22:28 - Finished unfydbotsmartreport.exe
+2023-08-28 19:22:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 19:22:29 - Started 2016
+2023-08-28 19:26:38 - Stopping unfydbotsmartreport.exe
+2023-08-28 19:26:38 - ProcessKill 2016
+2023-08-28 19:26:38 - Found child process: 884 Name: conhost.exe
+2023-08-28 19:26:38 - Found child process: 8004 Name: node.exe
+2023-08-28 19:26:38 - Stopping process 884
+2023-08-28 19:26:38 - Send SIGINT 884
+2023-08-28 19:26:38 - SIGINT to 884 failed - Killing as fallback
+2023-08-28 19:26:38 - Stopping process 8004
+2023-08-28 19:26:38 - Send SIGINT 8004
+2023-08-28 19:26:38 - SIGINT to 8004 failed - Killing as fallback
+2023-08-28 19:26:38 - Stopping process 2016
+2023-08-28 19:26:38 - Send SIGINT 2016
+2023-08-28 19:26:38 - SIGINT to 2016 failed - Killing as fallback
+2023-08-28 19:26:38 - Finished unfydbotsmartreport.exe
+2023-08-28 19:26:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 19:26:39 - Started 156
+2023-08-29 11:12:26 - Stopping unfydbotsmartreport.exe
+2023-08-29 11:12:26 - ProcessKill 156
+2023-08-29 11:12:27 - Found child process: 4872 Name: conhost.exe
+2023-08-29 11:12:27 - Found child process: 1392 Name: node.exe
+2023-08-29 11:12:27 - Stopping process 4872
+2023-08-29 11:12:27 - Send SIGINT 4872
+2023-08-29 11:12:27 - SIGINT to 4872 failed - Killing as fallback
+2023-08-29 11:12:27 - Stopping process 1392
+2023-08-29 11:12:27 - Send SIGINT 1392
+2023-08-29 11:12:27 - SIGINT to 1392 failed - Killing as fallback
+2023-08-29 11:12:27 - Stopping process 156
+2023-08-29 11:12:27 - Send SIGINT 156
+2023-08-29 11:12:27 - SIGINT to 156 failed - Killing as fallback
+2023-08-29 11:12:27 - Finished unfydbotsmartreport.exe
+2023-08-29 11:12:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-29 11:12:30 - Started 5376
+2023-08-29 11:15:01 - Stopping unfydbotsmartreport.exe
+2023-08-29 11:15:01 - ProcessKill 5376
+2023-08-29 11:15:01 - Found child process: 4352 Name: conhost.exe
+2023-08-29 11:15:01 - Found child process: 3848 Name: node.exe
+2023-08-29 11:15:02 - Stopping process 4352
+2023-08-29 11:15:02 - Send SIGINT 4352
+2023-08-29 11:15:02 - SIGINT to 4352 failed - Killing as fallback
+2023-08-29 11:15:02 - Stopping process 3848
+2023-08-29 11:15:02 - Send SIGINT 3848
+2023-08-29 11:15:02 - SIGINT to 3848 failed - Killing as fallback
+2023-08-29 11:15:02 - Stopping process 5376
+2023-08-29 11:15:02 - Send SIGINT 5376
+2023-08-29 11:15:02 - SIGINT to 5376 failed - Killing as fallback
+2023-08-29 11:15:02 - Finished unfydbotsmartreport.exe
+2023-08-29 11:15:03 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-29 11:15:03 - Started 8180
+2023-08-29 11:21:22 - Stopping unfydbotsmartreport.exe
+2023-08-29 11:21:22 - ProcessKill 8180
+2023-08-29 11:21:24 - Found child process: 1232 Name: conhost.exe
+2023-08-29 11:21:24 - Found child process: 6336 Name: node.exe
+2023-08-29 11:21:24 - Stopping process 1232
+2023-08-29 11:21:24 - Send SIGINT 1232
+2023-08-29 11:21:24 - SIGINT to 1232 failed - Killing as fallback
+2023-08-29 11:21:25 - Stopping process 6336
+2023-08-29 11:21:25 - Send SIGINT 6336
+2023-08-29 11:21:25 - SIGINT to 6336 failed - Killing as fallback
+2023-08-29 11:21:25 - Stopping process 8180
+2023-08-29 11:21:25 - Send SIGINT 8180
+2023-08-29 11:21:25 - SIGINT to 8180 failed - Killing as fallback
+2023-08-29 11:21:25 - Finished unfydbotsmartreport.exe
+2023-08-29 11:22:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-29 11:22:10 - Started 804
+2023-08-29 11:25:55 - Stopping unfydbotsmartreport.exe
+2023-08-29 11:25:55 - ProcessKill 804
+2023-08-29 11:25:56 - Found child process: 7900 Name: conhost.exe
+2023-08-29 11:25:56 - Found child process: 7584 Name: node.exe
+2023-08-29 11:25:56 - Stopping process 7900
+2023-08-29 11:25:56 - Send SIGINT 7900
+2023-08-29 11:25:56 - SIGINT to 7900 failed - Killing as fallback
+2023-08-29 11:25:56 - Stopping process 7584
+2023-08-29 11:25:56 - Send SIGINT 7584
+2023-08-29 11:25:56 - SIGINT to 7584 failed - Killing as fallback
+2023-08-29 11:25:56 - Stopping process 804
+2023-08-29 11:25:56 - Send SIGINT 804
+2023-08-29 11:25:56 - SIGINT to 804 failed - Killing as fallback
+2023-08-29 11:25:56 - Finished unfydbotsmartreport.exe
+2023-08-29 11:25:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-29 11:25:57 - Started 3428
+2023-08-30 16:28:55 - Stopping unfydbotsmartreport.exe
+2023-08-30 16:28:55 - ProcessKill 3428
+2023-08-30 16:28:58 - Found child process: 3740 Name: conhost.exe
+2023-08-30 16:28:58 - Found child process: 3004 Name: node.exe
+2023-08-30 16:28:58 - Stopping process 3740
+2023-08-30 16:28:58 - Send SIGINT 3740
+2023-08-30 16:28:58 - SIGINT to 3740 failed - Killing as fallback
+2023-08-30 16:28:59 - Stopping process 3004
+2023-08-30 16:28:59 - Send SIGINT 3004
+2023-08-30 16:28:59 - SIGINT to 3004 failed - Killing as fallback
+2023-08-30 16:28:59 - Stopping process 3428
+2023-08-30 16:28:59 - Send SIGINT 3428
+2023-08-30 16:28:59 - SIGINT to 3428 failed - Killing as fallback
+2023-08-30 16:28:59 - Finished unfydbotsmartreport.exe
+2023-08-30 16:29:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-30 16:29:02 - Started 6300
+2023-09-04 14:30:31 - Stopping unfydbotsmartreport.exe
+2023-09-04 14:30:31 - ProcessKill 6300
+2023-09-04 14:30:32 - Found child process: 488 Name: conhost.exe
+2023-09-04 14:30:32 - Found child process: 6400 Name: node.exe
+2023-09-04 14:30:32 - Stopping process 488
+2023-09-04 14:30:32 - Send SIGINT 488
+2023-09-04 14:30:32 - SIGINT to 488 failed - Killing as fallback
+2023-09-04 14:30:32 - Stopping process 6400
+2023-09-04 14:30:32 - Send SIGINT 6400
+2023-09-04 14:30:32 - SIGINT to 6400 failed - Killing as fallback
+2023-09-04 14:30:32 - Stopping process 6300
+2023-09-04 14:30:32 - Send SIGINT 6300
+2023-09-04 14:30:32 - SIGINT to 6300 failed - Killing as fallback
+2023-09-04 14:30:32 - Finished unfydbotsmartreport.exe
+2023-09-04 14:30:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 14:30:35 - Started 1684
+2023-09-04 14:46:54 - Stopping unfydbotsmartreport.exe
+2023-09-04 14:46:54 - ProcessKill 1684
+2023-09-04 14:46:55 - Found child process: 2288 Name: conhost.exe
+2023-09-04 14:46:55 - Found child process: 8168 Name: node.exe
+2023-09-04 14:46:55 - Stopping process 2288
+2023-09-04 14:46:55 - Send SIGINT 2288
+2023-09-04 14:46:55 - SIGINT to 2288 failed - Killing as fallback
+2023-09-04 14:46:55 - Stopping process 8168
+2023-09-04 14:46:55 - Send SIGINT 8168
+2023-09-04 14:46:55 - SIGINT to 8168 failed - Killing as fallback
+2023-09-04 14:46:55 - Stopping process 1684
+2023-09-04 14:46:55 - Send SIGINT 1684
+2023-09-04 14:46:55 - SIGINT to 1684 failed - Killing as fallback
+2023-09-04 14:46:55 - Finished unfydbotsmartreport.exe
+2023-09-04 14:49:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 14:49:57 - Started 6752
+2023-09-04 14:50:55 - Stopping unfydbotsmartreport.exe
+2023-09-04 14:50:55 - ProcessKill 6752
+2023-09-04 14:50:56 - Found child process: 6688 Name: conhost.exe
+2023-09-04 14:50:56 - Found child process: 8168 Name: node.exe
+2023-09-04 14:50:56 - Stopping process 6688
+2023-09-04 14:50:56 - Send SIGINT 6688
+2023-09-04 14:50:56 - SIGINT to 6688 failed - Killing as fallback
+2023-09-04 14:50:56 - Stopping process 8168
+2023-09-04 14:50:56 - Send SIGINT 8168
+2023-09-04 14:50:56 - SIGINT to 8168 failed - Killing as fallback
+2023-09-04 14:50:56 - Stopping process 6752
+2023-09-04 14:50:56 - Send SIGINT 6752
+2023-09-04 14:50:56 - SIGINT to 6752 failed - Killing as fallback
+2023-09-04 14:50:56 - Finished unfydbotsmartreport.exe
+2023-09-04 14:50:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 14:50:57 - Started 5196
+2023-09-04 15:04:31 - Stopping unfydbotsmartreport.exe
+2023-09-04 15:04:31 - ProcessKill 5196
+2023-09-04 15:04:31 - Found child process: 7588 Name: conhost.exe
+2023-09-04 15:04:31 - Found child process: 3792 Name: node.exe
+2023-09-04 15:04:31 - Stopping process 7588
+2023-09-04 15:04:31 - Send SIGINT 7588
+2023-09-04 15:04:31 - SIGINT to 7588 failed - Killing as fallback
+2023-09-04 15:04:31 - Stopping process 3792
+2023-09-04 15:04:31 - Send SIGINT 3792
+2023-09-04 15:04:31 - SIGINT to 3792 failed - Killing as fallback
+2023-09-04 15:04:31 - Stopping process 5196
+2023-09-04 15:04:31 - Send SIGINT 5196
+2023-09-04 15:04:31 - SIGINT to 5196 failed - Killing as fallback
+2023-09-04 15:04:31 - Finished unfydbotsmartreport.exe
+2023-09-04 15:04:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 15:04:32 - Started 6468
+2023-09-04 15:20:42 - Stopping unfydbotsmartreport.exe
+2023-09-04 15:20:42 - ProcessKill 6468
+2023-09-04 15:20:42 - Found child process: 5600 Name: conhost.exe
+2023-09-04 15:20:42 - Found child process: 5016 Name: node.exe
+2023-09-04 15:20:42 - Stopping process 5600
+2023-09-04 15:20:42 - Send SIGINT 5600
+2023-09-04 15:20:42 - SIGINT to 5600 failed - Killing as fallback
+2023-09-04 15:20:42 - Stopping process 5016
+2023-09-04 15:20:43 - Send SIGINT 5016
+2023-09-04 15:20:43 - SIGINT to 5016 failed - Killing as fallback
+2023-09-04 15:20:43 - Stopping process 6468
+2023-09-04 15:20:43 - Send SIGINT 6468
+2023-09-04 15:20:43 - SIGINT to 6468 failed - Killing as fallback
+2023-09-04 15:20:43 - Finished unfydbotsmartreport.exe
+2023-09-04 15:20:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 15:20:43 - Started 1096
+2023-09-04 15:23:52 - Stopping unfydbotsmartreport.exe
+2023-09-04 15:23:52 - ProcessKill 1096
+2023-09-04 15:23:53 - Found child process: 2692 Name: conhost.exe
+2023-09-04 15:23:53 - Found child process: 4400 Name: node.exe
+2023-09-04 15:23:53 - Stopping process 2692
+2023-09-04 15:23:53 - Send SIGINT 2692
+2023-09-04 15:23:53 - SIGINT to 2692 failed - Killing as fallback
+2023-09-04 15:23:53 - Stopping process 4400
+2023-09-04 15:23:53 - Send SIGINT 4400
+2023-09-04 15:23:53 - SIGINT to 4400 failed - Killing as fallback
+2023-09-04 15:23:53 - Stopping process 1096
+2023-09-04 15:23:53 - Send SIGINT 1096
+2023-09-04 15:23:53 - SIGINT to 1096 failed - Killing as fallback
+2023-09-04 15:23:53 - Finished unfydbotsmartreport.exe
+2023-09-04 15:23:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 15:23:54 - Started 4404
+2023-09-04 15:27:09 - Stopping unfydbotsmartreport.exe
+2023-09-04 15:27:09 - ProcessKill 4404
+2023-09-04 15:27:10 - Found child process: 7404 Name: conhost.exe
+2023-09-04 15:27:10 - Found child process: 6340 Name: node.exe
+2023-09-04 15:27:10 - Stopping process 7404
+2023-09-04 15:27:10 - Send SIGINT 7404
+2023-09-04 15:27:10 - SIGINT to 7404 failed - Killing as fallback
+2023-09-04 15:27:11 - Stopping process 6340
+2023-09-04 15:27:11 - Send SIGINT 6340
+2023-09-04 15:27:11 - SIGINT to 6340 failed - Killing as fallback
+2023-09-04 15:27:11 - Stopping process 4404
+2023-09-04 15:27:11 - Send SIGINT 4404
+2023-09-04 15:27:11 - SIGINT to 4404 failed - Killing as fallback
+2023-09-04 15:27:11 - Finished unfydbotsmartreport.exe
+2023-09-04 15:27:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 15:27:12 - Started 7816
+2023-09-11 13:57:38 - Stopping unfydbotsmartreport.exe
+2023-09-11 13:57:38 - ProcessKill 7816
+2023-09-11 13:57:39 - Found child process: 8172 Name: conhost.exe
+2023-09-11 13:57:39 - Found child process: 8188 Name: node.exe
+2023-09-11 13:57:39 - Stopping process 8172
+2023-09-11 13:57:39 - Send SIGINT 8172
+2023-09-11 13:57:39 - SIGINT to 8172 failed - Killing as fallback
+2023-09-11 13:57:39 - Stopping process 8188
+2023-09-11 13:57:39 - Send SIGINT 8188
+2023-09-11 13:57:39 - SIGINT to 8188 failed - Killing as fallback
+2023-09-11 13:57:39 - Stopping process 7816
+2023-09-11 13:57:39 - Send SIGINT 7816
+2023-09-11 13:57:39 - SIGINT to 7816 failed - Killing as fallback
+2023-09-11 13:57:39 - Finished unfydbotsmartreport.exe
+2023-09-11 13:57:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-11 13:57:42 - Started 4632
+2023-09-11 13:58:09 - Stopping unfydbotsmartreport.exe
+2023-09-11 13:58:09 - ProcessKill 4632
+2023-09-11 13:58:09 - Found child process: 4940 Name: conhost.exe
+2023-09-11 13:58:09 - Found child process: 4260 Name: node.exe
+2023-09-11 13:58:10 - Stopping process 4940
+2023-09-11 13:58:10 - Send SIGINT 4940
+2023-09-11 13:58:10 - SIGINT to 4940 failed - Killing as fallback
+2023-09-11 13:58:10 - Stopping process 4260
+2023-09-11 13:58:10 - Send SIGINT 4260
+2023-09-11 13:58:10 - SIGINT to 4260 failed - Killing as fallback
+2023-09-11 13:58:10 - Stopping process 4632
+2023-09-11 13:58:10 - Send SIGINT 4632
+2023-09-11 13:58:10 - SIGINT to 4632 failed - Killing as fallback
+2023-09-11 13:58:10 - Finished unfydbotsmartreport.exe
+2023-09-11 13:58:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-11 13:58:11 - Started 6660
+2023-09-11 14:03:30 - Stopping unfydbotsmartreport.exe
+2023-09-11 14:03:30 - ProcessKill 6660
+2023-09-11 14:03:31 - Found child process: 7948 Name: conhost.exe
+2023-09-11 14:03:31 - Found child process: 2988 Name: node.exe
+2023-09-11 14:03:31 - Stopping process 7948
+2023-09-11 14:03:31 - Send SIGINT 7948
+2023-09-11 14:03:31 - SIGINT to 7948 failed - Killing as fallback
+2023-09-11 14:03:31 - Stopping process 2988
+2023-09-11 14:03:31 - Send SIGINT 2988
+2023-09-11 14:03:31 - SIGINT to 2988 failed - Killing as fallback
+2023-09-11 14:03:31 - Stopping process 6660
+2023-09-11 14:03:31 - Send SIGINT 6660
+2023-09-11 14:03:31 - SIGINT to 6660 failed - Killing as fallback
+2023-09-11 14:03:31 - Finished unfydbotsmartreport.exe
+2023-09-11 14:03:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-11 14:03:32 - Started 2612
+2023-09-11 14:16:26 - Stopping unfydbotsmartreport.exe
+2023-09-11 14:16:26 - ProcessKill 2612
+2023-09-11 14:16:26 - Found child process: 5768 Name: conhost.exe
+2023-09-11 14:16:26 - Found child process: 7988 Name: node.exe
+2023-09-11 14:16:26 - Stopping process 5768
+2023-09-11 14:16:26 - Send SIGINT 5768
+2023-09-11 14:16:26 - SIGINT to 5768 failed - Killing as fallback
+2023-09-11 14:16:26 - Stopping process 7988
+2023-09-11 14:16:26 - Send SIGINT 7988
+2023-09-11 14:16:26 - SIGINT to 7988 failed - Killing as fallback
+2023-09-11 14:16:26 - Stopping process 2612
+2023-09-11 14:16:26 - Send SIGINT 2612
+2023-09-11 14:16:26 - SIGINT to 2612 failed - Killing as fallback
+2023-09-11 14:16:26 - Finished unfydbotsmartreport.exe
+2023-09-11 14:16:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-11 14:16:28 - Started 4240
+2023-09-11 14:20:51 - Stopping unfydbotsmartreport.exe
+2023-09-11 14:20:51 - ProcessKill 4240
+2023-09-11 14:20:52 - Found child process: 2952 Name: conhost.exe
+2023-09-11 14:20:52 - Found child process: 7024 Name: node.exe
+2023-09-11 14:20:53 - Stopping process 2952
+2023-09-11 14:20:53 - Send SIGINT 2952
+2023-09-11 14:20:53 - SIGINT to 2952 failed - Killing as fallback
+2023-09-11 14:20:53 - Stopping process 7024
+2023-09-11 14:20:53 - Send SIGINT 7024
+2023-09-11 14:20:53 - SIGINT to 7024 failed - Killing as fallback
+2023-09-11 14:20:53 - Stopping process 4240
+2023-09-11 14:20:53 - Send SIGINT 4240
+2023-09-11 14:20:53 - SIGINT to 4240 failed - Killing as fallback
+2023-09-11 14:20:53 - Finished unfydbotsmartreport.exe
+2023-09-11 14:20:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-11 14:20:54 - Started 2328
+2023-09-14 04:39:23 - Stopping unfydbotsmartreport.exe
+2023-09-14 04:39:23 - ProcessKill 2328
+2023-09-14 04:39:32 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-14 04:40:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-14 04:40:15 - Started 3164
+2023-10-11 04:31:58 - Stopping unfydbotsmartreport.exe
+2023-10-11 04:31:58 - Finished unfydbotsmartreport.exe
+2023-10-11 04:32:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-11 04:32:35 - Started 3280
+2023-11-16 04:16:21 - Stopping unfydbotsmartreport.exe
+2023-11-16 04:16:21 - Finished unfydbotsmartreport.exe
+2023-11-16 04:16:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-16 04:16:59 - Started 3916
+2023-12-14 04:21:37 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-14 04:21:37 - Started 3824
+2024-01-02 16:37:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 16:37:46 - Started 1960
+2024-01-02 17:04:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 17:04:59 - Started 7316
+2024-01-02 17:05:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 17:05:52 - Started 6560
+2024-01-02 17:07:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 17:07:35 - Started 7720
+2024-01-02 17:11:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 17:11:43 - Started 5920
+2024-01-02 17:15:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 17:15:26 - Started 4004
+2024-01-02 17:21:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 17:21:41 - Started 3496
+2024-01-02 17:27:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-02 17:27:06 - Started 3976
+2024-01-12 20:21:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-12 20:21:24 - Started 3620
+2024-02-15 04:19:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-15 04:19:57 - Started 3336
+2024-03-13 04:19:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-13 04:19:38 - Started 3800
+2024-04-11 04:09:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-04-11 04:09:04 - Started 3652
+2024-04-16 16:50:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Node_API\UNFYD-BOT-SmartReport\node_modules\node-windows\lib\wrapper.js --file C:\Node_API\UNFYD-BOT-SmartReport\index.js --scriptoptions= --log "UNFYD-BOT-Smartreport wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-04-16 16:50:30 - Started 8180

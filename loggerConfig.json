@@ -1,0 +1,14 @@
+{
+    
+    "filePathDirctory":"C:/Node_API/LOG",
+    "maxsize":"10m",
+    "maxdays":"1d",
+    "zippedArchive":false,
+    "logDisable":false,
+    "logDateTimeFormat": "YYYY-MM-DD HH:mm:ss:sss",
+    "debugDisable":false,
+    "infoDisable":false,
+    "errorDisable":false,
+    "timeZone":"Asia/India"
+
+}

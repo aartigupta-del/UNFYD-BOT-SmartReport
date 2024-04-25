@@ -1,0 +1,28 @@
+{"db0":
+  {
+  "MSSQL_DBNAME": "BALI-PIVC_NEW",
+  "SOURCE": "806fe2d6b86cacf7ac29489eb1ec2dc4",
+  "MSSQL_SERVER": "MSSQLSERVER",
+  "MSSQL_HOST": "20.62.165.91",
+  "MSSQL_USER": "PIVC_SMART",
+  "MSSQL_PASS": "Pivc@6541*",
+  "MSSQL_PORT": 1433
+},
+"db1":
+{
+  "MSSQL_DBNAME": "UNFYD_BOT_CLIENT_PROD",
+  "SOURCE": "806fe2d6b86cacf7ac29489eb1ec2dc4",
+  "MSSQL_SERVER": "MSSQLSERVER",
+  "MSSQL_HOST": "20.169.202.254",
+  "MSSQL_USER": "sa",
+  "MSSQL_PASS": "Smart@123",
+  "MSSQL_PORT": 1433
+  
+}
+,
+"Destination_db_name":"[UNFYD-TALK]",
+"BOT_db_name":"[UNFYD_BOT_CLIENT_PROD]",
+"Auditor_db_name":"[BALI-PIVC_NEW]",
+"dateofreport":"-0",
+"timing":"* * * * *"
+}
